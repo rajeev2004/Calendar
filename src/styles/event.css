@@ -1,0 +1,17 @@
+.event {
+  background-color: #ffffff;
+  padding: 15px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.event h1 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.event p {
+  font-size: 1rem;
+  color: #555;
+}
