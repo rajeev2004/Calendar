@@ -30,7 +30,7 @@ function AddEvent(props){
                     name="title"
                     onChange={handleChange}
                     value={note.title}
-                    placeholder="Date"
+                    placeholder="Date (yyyy-mm-dd)"
                 />
                 <textarea
                     name="content"

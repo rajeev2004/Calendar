@@ -69,7 +69,7 @@ function Calendar(){
         </h2>
         <button onClick={handleNextMonth}>Next</button>
       </header>
-      <CalendarGrid year={year} month={month} />
+      <CalendarGrid year={year} month={month} events={events}/>
       <p>EVENTS</p>
       <AddEvent onAdd={handleEvents} />
       {events.map((eventItem,index) => (
