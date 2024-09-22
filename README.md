@@ -33,4 +33,3 @@ The Calendar App is designed to help users keep track of their personal events a
 [Visit the website](https://rajeev2004.github.io/Calendar/)
 
 ![Calendar App Screenshot](![Screenshot (107)](https://github.com/user-attachments/assets/bae055c8-abc9-433d-abea-da9d5f5fe33a)
-)
